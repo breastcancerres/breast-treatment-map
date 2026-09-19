@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-09-19",
+  "approvals": {
+    "imlu-abemaciclib": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-imlu-combo-2026",
+      "effectiveOn": "2026-09-18",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "d54fcc9d4bfa88d6018ba475651a8d1c87b56dfda04b97af41aa6bc83ce65084",
+      "needsReview": false
+    },
+    "dato-tnbc": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-dato-tnbc-2026",
+      "effectiveOn": "2026-05-22",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "0b99f595ad67b9154cb780aae0a71d7aca7a88d8b5f8efaaf815c9c7a385376a",
+      "needsReview": false
+    },
+    "tdxd-neoadjuvant": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-early-2026",
+      "effectiveOn": "2026-05-15",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "cfa54f87aae2d0d10caa0a801bc81b8bf17ffef1692e558c3e9e9411181545d9",
+      "needsReview": false
+    },
+    "tdxd-residual": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-early-2026",
+      "effectiveOn": "2026-05-15",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "cfa54f87aae2d0d10caa0a801bc81b8bf17ffef1692e558c3e9e9411181545d9",
+      "needsReview": false
+    },
+    "tdxd-first-line": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-firstline-2025",
+      "effectiveOn": "2025-12-15",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "e2280f4791a813d82af35ea052a8b3e316dd636878c3fdd97bdb071005f57003",
+      "needsReview": false
+    },
+    "imlu-monotherapy": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-imlu-mono-2025",
+      "effectiveOn": "2025-09-25",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "5510d5c8cefd6a902b8f6a2de9fcd4265dcdde83c5e45e93f2a7f315099ae24c",
+      "needsReview": false
+    },
+    "tdxd-low-endocrine": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-low-et-2025",
+      "effectiveOn": "2025-01-27",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "e0cd1b88fccfb2b3d7a98f94bdc4f32f11fc7ca6de21a81e50b41983f199eb9c",
+      "needsReview": false
+    },
+    "dato-hr-positive": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-dato-hr-2025",
+      "effectiveOn": "2025-01-17",
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "2e645819dc6c6d3f64193a3cd82a45153db755ad5edda31b8e81cb3c54c35c64",
+      "needsReview": false
+    },
+    "tdxd-her2-prior": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-established-label",
+      "effectiveOn": null,
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
+      "needsReview": false
+    },
+    "tdxd-low-chemo": {
+      "status": "approved",
+      "jurisdiction": "US",
+      "sourceId": "fda-tdxd-established-label",
+      "effectiveOn": null,
+      "confirmedOn": "2026-09-19T07:59:12Z",
+      "proofSha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
+      "needsReview": false
+    }
+  },
+  "trials": {
+    "NCT03529110": {
+      "id": "NCT03529110",
+      "title": "DS-8201a Versus T-DM1 for Human Epidermal Growth Factor Receptor 2 (HER2)-Positive, Unresectable and/or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane [DESTINY-Breast03]",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2025-10-21",
+      "primaryCompletion": {
+        "date": "2021-05-21",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2026-07-30",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 524,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT03734029": {
+      "id": "NCT03734029",
+      "title": "Trastuzumab Deruxtecan (DS-8201a) Versus Investigator's Choice for HER2-low Breast Cancer That Has Spread or Cannot be Surgically Removed [DESTINY-Breast04]",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2025-10-06",
+      "primaryCompletion": {
+        "date": "2022-01-11",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2026-08-01",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 557,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [
+        "35665782"
+      ],
+      "whyStopped": null
+    },
+    "NCT04622319": {
+      "id": "NCT04622319",
+      "title": "A Study of Trastuzumab Deruxtecan (T-DXd) Versus Trastuzumab Emtansine (T-DM1) in High-risk HER2-positive Participants With Residual Invasive Breast Cancer Following Neoadjuvant Therapy (DESTINY-Breast05)",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-05-15",
+      "primaryCompletion": {
+        "date": "2025-07-02",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2028-06-20",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 1600,
+        "type": "ESTIMATED"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT04494425": {
+      "id": "NCT04494425",
+      "title": "Study of Trastuzumab Deruxtecan (T-DXd) vs Investigator's Choice Chemotherapy in HER2-low, Hormone Receptor Positive, Metastatic Breast Cancer",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-03-04",
+      "primaryCompletion": {
+        "date": "2024-03-18",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2026-06-19",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 866,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT04784715": {
+      "id": "NCT04784715",
+      "title": "Trastuzumab Deruxtecan (T-DXd) With or Without Pertuzumab Versus Taxane, Trastuzumab and Pertuzumab in HER2-positive Metastatic Breast Cancer (DESTINY-Breast09)",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-07-30",
+      "primaryCompletion": {
+        "date": "2026-11-11",
+        "type": "ESTIMATED"
+      },
+      "completion": {
+        "date": "2029-12-30",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 1157,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT05113251": {
+      "id": "NCT05113251",
+      "title": "Trastuzumab Deruxtecan (T-DXd) Alone or in Sequence With THP, Versus Standard Treatment (ddAC-THP), in HER2-positive Early Breast Cancer",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-08-11",
+      "primaryCompletion": {
+        "date": "2025-03-12",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2027-04-30",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 927,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT05104866": {
+      "id": "NCT05104866",
+      "title": "A Phase-3, Open-Label, Randomized Study of Dato-DXd Versus Investigator's Choice of Chemotherapy (ICC) in Participants With Inoperable or Metastatic HR-Positive, HER2-Negative Breast Cancer Who Have Been Treated With One or Two Prior Lines of Systemic Chemotherapy (TROPION-Breast01)",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-08-24",
+      "primaryCompletion": {
+        "date": "2024-07-24",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2026-12-31",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 732,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT05374512": {
+      "id": "NCT05374512",
+      "title": "A Study of Dato-DXd Versus Investigator's Choice Chemotherapy in Patients With Locally Recurrent Inoperable or Metastatic Triple-negative Breast Cancer, Who Are Not Candidates for PD-1/PD-L1 Inhibitor Therapy (TROPION-Breast02)",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-05-15",
+      "primaryCompletion": {
+        "date": "2025-08-25",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2026-12-31",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 644,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT05629585": {
+      "id": "NCT05629585",
+      "title": "A Study of Dato-DXd With or Without Durvalumab Versus Investigator's Choice of Therapy in Patients With Stage I-III Triple-negative Breast Cancer Without Pathological Complete Response Following Neoadjuvant Therapy (TROPION-Breast03)",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-06-15",
+      "primaryCompletion": {
+        "date": "2027-09-20",
+        "type": "ESTIMATED"
+      },
+      "completion": {
+        "date": "2030-01-30",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 1174,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT06112379": {
+      "id": "NCT06112379",
+      "title": "A Phase III Randomised Study to Evaluate Dato-DXd and Durvalumab for Neoadjuvant/Adjuvant Treatment of Triple-Negative or Hormone Receptor-low/HER2-negative Breast Cancer",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-07-13",
+      "primaryCompletion": {
+        "date": "2028-11-20",
+        "type": "ESTIMATED"
+      },
+      "completion": {
+        "date": "2032-09-23",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 1902,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT04975308": {
+      "id": "NCT04975308",
+      "title": "A Study of Imlunestrant, Investigator's Choice of Endocrine Therapy, and Imlunestrant Plus Abemaciclib in Participants With ER+, HER2- Advanced Breast Cancer",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-07-22",
+      "primaryCompletion": {
+        "date": "2024-06-24",
+        "type": "ACTUAL"
+      },
+      "completion": {
+        "date": "2027-08",
+        "type": "ESTIMATED"
+      },
+      "hasResults": true,
+      "enrollment": {
+        "count": 874,
+        "type": "ACTUAL"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    },
+    "NCT05514054": {
+      "id": "NCT05514054",
+      "title": "A Study of Imlunestrant Versus Standard Endocrine Therapy in Participants With Early Breast Cancer",
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "updatedOn": "2026-04-02",
+      "primaryCompletion": {
+        "date": "2027-10",
+        "type": "ESTIMATED"
+      },
+      "completion": {
+        "date": "2032-03",
+        "type": "ESTIMATED"
+      },
+      "hasResults": false,
+      "enrollment": {
+        "count": 8000,
+        "type": "ESTIMATED"
+      },
+      "referencePmids": [],
+      "whyStopped": null
+    }
+  },
+  "events": {
+    "b1e114ef30ff3668948356cb": {
+      "id": "b1e114ef30ff3668948356cb",
+      "kind": "fda_approval",
+      "drugIds": [
+        "imlunestrant"
+      ],
+      "indicationIds": [
+        "imlu-abemaciclib"
+      ],
+      "title": "FDA: Комбинация после эндокринной терапии",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-combination-abemaciclib-er-positive-her2-negative-esr1-mutated-advanced-or",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2026-09-18",
+      "reviewRequired": false
+    },
+    "1b6e0584e4164067a3875b9d": {
+      "id": "1b6e0584e4164067a3875b9d",
+      "kind": "fda_approval",
+      "drugIds": [
+        "dato-dxd"
+      ],
+      "indicationIds": [
+        "dato-tnbc"
+      ],
+      "title": "FDA: При невозможности применения ингибиторов PD-1/PD-L1",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-triple-negative-breast-cancer",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2026-05-22",
+      "reviewRequired": false
+    },
+    "8e2da508a5f220f435b1d45f": {
+      "id": "8e2da508a5f220f435b1d45f",
+      "kind": "fda_approval",
+      "drugIds": [
+        "t-dxd"
+      ],
+      "indicationIds": [
+        "tdxd-neoadjuvant"
+      ],
+      "title": "FDA: Неоадъювантная терапия, II–III стадии",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-two-separate-indications-fam-trastuzumab-deruxtecan-nxki-her2-positive-early-stage",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2026-05-15",
+      "reviewRequired": false
+    },
+    "c7a20bf15292e5c63de313c7": {
+      "id": "c7a20bf15292e5c63de313c7",
+      "kind": "fda_approval",
+      "drugIds": [
+        "t-dxd"
+      ],
+      "indicationIds": [
+        "tdxd-residual"
+      ],
+      "title": "FDA: Адъювантная терапия при остаточной инвазивной опухоли",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-two-separate-indications-fam-trastuzumab-deruxtecan-nxki-her2-positive-early-stage",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2026-05-15",
+      "reviewRequired": false
+    },
+    "828029ab6a03f82dff80c3ca": {
+      "id": "828029ab6a03f82dff80c3ca",
+      "kind": "fda_approval",
+      "drugIds": [
+        "t-dxd"
+      ],
+      "indicationIds": [
+        "tdxd-first-line"
+      ],
+      "title": "FDA: Первая линия нерезектабельного или метастатического РМЖ",
+      "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/fda-approves-fam-trastuzumab-deruxtecan-nxki-pertuzumab-unresectable-or-metastatic-her2-positive",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2025-12-15",
+      "reviewRequired": false
+    },
+    "4dfd96f45f7eea21c6bc3d2a": {
+      "id": "4dfd96f45f7eea21c6bc3d2a",
+      "kind": "fda_approval",
+      "drugIds": [
+        "imlunestrant"
+      ],
+      "indicationIds": [
+        "imlu-monotherapy"
+      ],
+      "title": "FDA: После ≥1 линии эндокринной терапии",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-er-positive-her2-negative-esr1-mutated-advanced-or-metastatic-breast",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2025-09-25",
+      "reviewRequired": false
+    },
+    "2375be1472f1a80864844e05": {
+      "id": "2375be1472f1a80864844e05",
+      "kind": "fda_approval",
+      "drugIds": [
+        "t-dxd"
+      ],
+      "indicationIds": [
+        "tdxd-low-endocrine"
+      ],
+      "title": "FDA: После прогрессирования на эндокринной терапии",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-fam-trastuzumab-deruxtecan-nxki-unresectable-or-metastatic-hr-positive-her2-low-or-her2",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2025-01-27",
+      "reviewRequired": false
+    },
+    "f9bdb8d2a7b7f1ab452cbe6d": {
+      "id": "f9bdb8d2a7b7f1ab452cbe6d",
+      "kind": "fda_approval",
+      "drugIds": [
+        "dato-dxd"
+      ],
+      "indicationIds": [
+        "dato-hr-positive"
+      ],
+      "title": "FDA: После эндокринной терапии и химиотерапии",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-hr-positive-her2-negative-breast",
+      "observedOn": "2026-09-19T07:59:12Z",
+      "effectiveOn": "2025-01-17",
+      "reviewRequired": false
+    }
+  },
+  "publications": {
+    "35320644": {
+      "pmid": "35320644",
+      "title": "Trastuzumab Deruxtecan versus Trastuzumab Emtansine for Breast Cancer.",
+      "publicationDate": "2022 Mar 24",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "35665782": {
+      "pmid": "35665782",
+      "title": "Trastuzumab Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer.",
+      "publicationDate": "2022 Jul 7",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "35964548": {
+      "pmid": "35964548",
+      "title": "Optimizing treatment management of trastuzumab deruxtecan in clinical practice of breast cancer.",
+      "publicationDate": "2022 Aug",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "36495879": {
+      "pmid": "36495879",
+      "title": "Trastuzumab deruxtecan versus trastuzumab emtansine in patients with HER2-positive metastatic breast cancer: updated results from DESTINY-Breast03, a randomised, open-label, phase 3 trial.",
+      "publicationDate": "2023 Jan 14",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "36780610": {
+      "pmid": "36780610",
+      "title": "US Food and Drug Administration Approval Summary: Fam-Trastuzumab Deruxtecan-nxki for Human Epidermal Growth Factor Receptor 2-Low Unresectable or Metastatic Breast Cancer.",
+      "publicationDate": "2023 Apr 10",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "37179020": {
+      "pmid": "37179020",
+      "title": "Patient-reported outcomes and hospitalization data in patients with HER2-positive metastatic breast cancer receiving trastuzumab deruxtecan or trastuzumab emtansine in the phase III DESTINY-Breast03 study.",
+      "publicationDate": "2023 Jul",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "37207306": {
+      "pmid": "37207306",
+      "title": "Real-World Perspectives and Practices for Pneumonitis/Interstitial Lung Disease Associated With Trastuzumab Deruxtecan Use in Human Epidermal Growth Factor Receptor 2-Expressing Metastatic Breast Cancer.",
+      "publicationDate": "2023 Aug",
+      "trialIds": [
+        "NCT03529110",
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "37387213": {
+      "pmid": "37387213",
+      "title": "TROPION-Breast01: Datopotamab deruxtecan vs chemotherapy in pre-treated inoperable or metastatic HR+/HER2- breast cancer.",
+      "publicationDate": "2024 Mar",
+      "trialIds": [
+        "NCT05104866"
+      ],
+      "drugIds": [
+        "dato-dxd"
+      ]
+    },
+    "37499870": {
+      "pmid": "37499870",
+      "title": "Trastuzumab deruxtecan (T-DXd) in HER2-low metastatic breast cancer treatment.",
+      "publicationDate": "2023 Oct",
+      "trialIds": [
+        "NCT04494425"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "37526149": {
+      "pmid": "37526149",
+      "title": "TROPION-Breast02: Datopotamab deruxtecan for locally recurrent inoperable or metastatic triple-negative breast cancer.",
+      "publicationDate": "2023 Nov",
+      "trialIds": [
+        "NCT05374512"
+      ],
+      "drugIds": [
+        "dato-dxd"
+      ]
+    },
+    "37597578": {
+      "pmid": "37597578",
+      "title": "Neratinib + fulvestrant + trastuzumab for HR-positive, HER2-negative, HER2-mutant metastatic breast cancer: outcomes and biomarker analysis from the SUMMIT trial.",
+      "publicationDate": "2023 Oct",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "38059424": {
+      "pmid": "38059424",
+      "title": "Trastuzumab Deruxtecan versus Trastuzumab Emtansine for Breast Cancer: a plain language summary of the DESTINY-Breast03 study.",
+      "publicationDate": "2024 Feb",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "38442809": {
+      "pmid": "38442809",
+      "title": "Efficacy and safety of trastuzumab deruxtecan in treating human epidermal growth factor receptor 2-low/positive advanced breast cancer:A meta-analysis of randomized controlled trials.",
+      "publicationDate": "2024 Apr",
+      "trialIds": [
+        "NCT03529110",
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "38686016": {
+      "pmid": "38686016",
+      "title": "TROPION-Breast03: a randomized phase III global trial of datopotamab deruxtecan ± durvalumab in patients with triple-negative breast cancer and residual invasive disease at surgical resection after neoadjuvant therapy.",
+      "publicationDate": "2024",
+      "trialIds": [
+        "NCT05629585"
+      ],
+      "drugIds": [
+        "dato-dxd"
+      ]
+    },
+    "38825627": {
+      "pmid": "38825627",
+      "title": "Trastuzumab deruxtecan versus trastuzumab emtansine in HER2-positive metastatic breast cancer: long-term survival analysis of the DESTINY-Breast03 trial.",
+      "publicationDate": "2024 Aug",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "38884900": {
+      "pmid": "38884900",
+      "title": "Trastuzumab deruxtecan versus treatment of physician's choice in previously treated Asian patients with HER2-low unresectable/metastatic breast cancer: subgroup analysis of the DESTINY-Breast04 study.",
+      "publicationDate": "2024 Sep",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "38979893": {
+      "pmid": "38979893",
+      "title": "Trastuzumab deruxtecan versus trastuzumab emtansine in Asian patients with HER2-positive metastatic breast cancer.",
+      "publicationDate": "2024 Sep",
+      "trialIds": [
+        "NCT03529110"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "39265124": {
+      "pmid": "39265124",
+      "title": "Datopotamab Deruxtecan Versus Chemotherapy in Previously Treated Inoperable/Metastatic Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer: Primary Results From TROPION-Breast01.",
+      "publicationDate": "2025 Jan 20",
+      "trialIds": [
+        "NCT05104866"
+      ],
+      "drugIds": [
+        "dato-dxd"
+      ]
+    },
+    "39282896": {
+      "pmid": "39282896",
+      "title": "Trastuzumab Deruxtecan after Endocrine Therapy in Metastatic Breast Cancer.",
+      "publicationDate": "2024 Dec 5",
+      "trialIds": [
+        "NCT04494425"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "39660834": {
+      "pmid": "39660834",
+      "title": "Imlunestrant with or without Abemaciclib in Advanced Breast Cancer.",
+      "publicationDate": "2025 Mar 27",
+      "trialIds": [
+        "NCT04975308"
+      ],
+      "drugIds": [
+        "imlunestrant"
+      ]
+    },
+    "39917260": {
+      "pmid": "39917260",
+      "title": "TROPION-Breast04: a randomized phase III study of neoadjuvant datopotamab deruxtecan (Dato-DXd) plus durvalumab followed by adjuvant durvalumab versus standard of care in patients with treatment-naïve early-stage triple negative or HR-low/HER2- breast cancer.",
+      "publicationDate": "2025",
+      "trialIds": [
+        "NCT06112379"
+      ],
+      "drugIds": [
+        "dato-dxd"
+      ]
+    },
+    "40073831": {
+      "pmid": "40073831",
+      "title": "Prognosis After Pathologic Complete Response to Neoadjuvant Therapy in Early-Stage Breast Cancer: A Population-Based Study.",
+      "publicationDate": "2025 Mar 12",
+      "trialIds": [
+        "NCT04622319"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "40349139": {
+      "pmid": "40349139",
+      "title": "Patient-reported outcomes from DESTINY-Breast04: trastuzumab deruxtecan versus physician's choice of chemotherapy in patients with HER2-low mBC.",
+      "publicationDate": "2025 May 8",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "41062831": {
+      "pmid": "41062831",
+      "title": "Trastuzumab deruxtecan in HER2-low metastatic breast cancer: long-term survival analysis of the randomized, phase 3 DESTINY-Breast04 trial.",
+      "publicationDate": "2025 Dec",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "41160818": {
+      "pmid": "41160818",
+      "title": "Trastuzumab Deruxtecan plus Pertuzumab for HER2-Positive Metastatic Breast Cancer.",
+      "publicationDate": "2026 Feb 5",
+      "trialIds": [
+        "NCT04784715"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "41370739": {
+      "pmid": "41370739",
+      "title": "Trastuzumab Deruxtecan in Residual HER2-Positive Early Breast Cancer.",
+      "publicationDate": "2026 Feb 26",
+      "trialIds": [
+        "NCT04622319"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    },
+    "42340017": {
+      "pmid": "42340017",
+      "title": "HER2-Ultralow: Prevalence, Characteristics, and Treatment Choices Among Advanced Breast Cancer Patients With Tumors Initially Scored as IHC 0.",
+      "publicationDate": "2026",
+      "trialIds": [
+        "NCT03734029"
+      ],
+      "drugIds": [
+        "t-dxd"
+      ]
+    }
+  },
+  "sources": {
+    "ctg:NCT03529110": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT03529110",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT03734029": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT03734029",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT04622319": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04622319",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT04494425": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04494425",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT04784715": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04784715",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT05113251": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05113251",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT05104866": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05104866",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT05374512": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05374512",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT05629585": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05629585",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT06112379": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT06112379",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT04975308": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04975308",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "ctg:NCT05514054": {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05514054",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-imlu-combo-2026": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-combination-abemaciclib-er-positive-her2-negative-esr1-mutated-advanced-or",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-dato-tnbc-2026": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-triple-negative-breast-cancer",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-tdxd-early-2026": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-two-separate-indications-fam-trastuzumab-deruxtecan-nxki-her2-positive-early-stage",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-tdxd-firstline-2025": {
+      "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/fda-approves-fam-trastuzumab-deruxtecan-nxki-pertuzumab-unresectable-or-metastatic-her2-positive",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-imlu-mono-2025": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-er-positive-her2-negative-esr1-mutated-advanced-or-metastatic-breast",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-tdxd-low-et-2025": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-fam-trastuzumab-deruxtecan-nxki-unresectable-or-metastatic-hr-positive-her2-low-or-her2",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-dato-hr-2025": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-hr-positive-her2-negative-breast",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:fda-tdxd-established-label": {
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22ENHERTU%22&limit=1&sort=effective_time%3Adesc",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:index": {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:label-t-dxd": {
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22ENHERTU%22&limit=1&sort=effective_time%3Adesc",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:label-dato-dxd": {
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22DATROWAY%22&limit=1&sort=effective_time%3Adesc",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "fda:label-imlunestrant": {
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22INLURIYO%22&limit=1&sort=effective_time%3Adesc",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT03529110": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT03529110",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT03734029": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT03734029",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT04622319": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04622319",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT04494425": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04494425",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT04784715": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04784715",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT05113251": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05113251",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT05104866": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05104866",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT05374512": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05374512",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT05629585": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05629585",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT06112379": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT06112379",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT04975308": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04975308",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:NCT05514054": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05514054",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    },
+    "pubmed:metadata": {
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+      "status": "ok",
+      "lastAttempt": "2026-09-19T12:03:40Z",
+      "lastSuccess": "2026-09-19T12:03:40Z"
+    }
+  },
+  "observations": {
+    "fda-imlu-combo-2026": {
+      "sha256": "d54fcc9d4bfa88d6018ba475651a8d1c87b56dfda04b97af41aa6bc83ce65084",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-dato-tnbc-2026": {
+      "sha256": "0b99f595ad67b9154cb780aae0a71d7aca7a88d8b5f8efaaf815c9c7a385376a",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-tdxd-early-2026": {
+      "sha256": "cfa54f87aae2d0d10caa0a801bc81b8bf17ffef1692e558c3e9e9411181545d9",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-tdxd-firstline-2025": {
+      "sha256": "e2280f4791a813d82af35ea052a8b3e316dd636878c3fdd97bdb071005f57003",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-imlu-mono-2025": {
+      "sha256": "5510d5c8cefd6a902b8f6a2de9fcd4265dcdde83c5e45e93f2a7f315099ae24c",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-tdxd-low-et-2025": {
+      "sha256": "e0cd1b88fccfb2b3d7a98f94bdc4f32f11fc7ca6de21a81e50b41983f199eb9c",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-dato-hr-2025": {
+      "sha256": "2e645819dc6c6d3f64193a3cd82a45153db755ad5edda31b8e81cb3c54c35c64",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda-tdxd-established-label": {
+      "sha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
+      "checkedAt": "2026-09-19T12:03:40Z"
+    },
+    "fda:label-t-dxd": {
+      "sha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
+      "effectiveTime": "20260515",
+      "datasetUpdatedOn": "2026-09-18"
+    },
+    "fda:label-dato-dxd": {
+      "sha256": "c5c6f221d2eefbe50dc5d44a5d3c7b17ec073b5f077c41632fa4ba78a009c5d3",
+      "effectiveTime": "20260527",
+      "datasetUpdatedOn": "2026-09-18"
+    },
+    "fda:label-imlunestrant": {
+      "sha256": "84cf223cebd13180d34d976de13afd9a61d9d53180dd58bffdf2c6d6afbf6a7f",
+      "effectiveTime": "20260604",
+      "datasetUpdatedOn": "2026-09-18"
+    }
+  },
+  "lastRun": {
+    "finishedAt": "2026-09-19T12:03:48Z",
+    "successes": 37,
+    "attempts": 37,
+    "status": "ok",
+    "startedAt": "2026-09-19T12:03:40Z"
+  }
+}

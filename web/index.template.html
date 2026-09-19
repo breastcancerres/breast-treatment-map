@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Карта препаратов и исследуемых применений в лечении рака молочной железы. Регистрация FDA, исследования III фазы и первоисточники.">
+  <title>РМЖ · Карта терапии</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23142338'/%3E%3Cpath d='M11 8h10v4H11zM7 14h18v4H7zM4 20h24v4H4z' fill='%232ccebd'/%3E%3C/svg%3E">
+  <style>/*__STYLES__*/</style>
+</head>
+<body>
+  <a class="skip" href="#drug-content">К карточке препарата</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div><p class="eyebrow">РАК МОЛОЧНОЙ ЖЕЛЕЗЫ</p><h1>Карта терапии</h1></div>
+      <span class="pilot">Пилот · 3 препарата</span>
+    </div>
+  </header>
+  <main class="workspace">
+    <div class="snapshot-bar"><p id="snapshot-label"></p><span id="automation-label"></span></div>
+    <div class="layout">
+      <aside class="drug-navigation" aria-label="Препараты">
+        <p class="section-label">ПРЕПАРАТЫ</p>
+        <nav id="drug-list"></nav>
+        <div class="scope-note"><strong>Регистрация: FDA, США</strong><p>Статус рекомендаций учитывается отдельно для каждого применения.</p></div>
+      </aside>
+      <section id="drug-content" aria-live="polite"></section>
+    </div>
+    <details class="source-panel"><summary>Источники и состояние обновления <span id="source-summary"></span></summary><div id="source-content"></div></details>
+    <footer><p>В режимах указаны исходные дозы. Редукции, премедикация и мониторинг — в инструкции или протоколе по ссылке. Дата сверки режима указана отдельно от даты автоматического сбора.</p><p>Пилот охватывает выбранные препараты и применения. Дата завершения сбора первичных данных не равна дате публикации результатов.</p></footer>
+  </main>
+  <noscript>Для просмотра интерактивных карточек включите JavaScript. Исходные сведения находятся в файлах data/catalog.json и data/state.json.</noscript>
+  <script type="application/json" id="map-data">/*__DATA__*/</script>
+  <script>/*__APP__*/</script>
+</body>
+</html>
