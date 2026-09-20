@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "asOf": "2026-09-19",
+  "asOf": "2026-09-20",
   "approvals": {
     "imlu-abemaciclib": {
       "status": "approved",
@@ -812,258 +812,258 @@
     "ctg:NCT03529110": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT03529110",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT03734029": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT03734029",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT04622319": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT04622319",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT04494425": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT04494425",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT04784715": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT04784715",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT05113251": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT05113251",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT05104866": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT05104866",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT05374512": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT05374512",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT05629585": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT05629585",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT06112379": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT06112379",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT04975308": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT04975308",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "ctg:NCT05514054": {
       "url": "https://clinicaltrials.gov/api/v2/studies/NCT05514054",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-imlu-combo-2026": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-combination-abemaciclib-er-positive-her2-negative-esr1-mutated-advanced-or",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-dato-tnbc-2026": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-triple-negative-breast-cancer",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-tdxd-early-2026": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-two-separate-indications-fam-trastuzumab-deruxtecan-nxki-her2-positive-early-stage",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-tdxd-firstline-2025": {
       "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/fda-approves-fam-trastuzumab-deruxtecan-nxki-pertuzumab-unresectable-or-metastatic-her2-positive",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-imlu-mono-2025": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-er-positive-her2-negative-esr1-mutated-advanced-or-metastatic-breast",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-tdxd-low-et-2025": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-fam-trastuzumab-deruxtecan-nxki-unresectable-or-metastatic-hr-positive-her2-low-or-her2",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-dato-hr-2025": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-datopotamab-deruxtecan-dlnk-unresectable-or-metastatic-hr-positive-her2-negative-breast",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:fda-tdxd-established-label": {
       "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22ENHERTU%22&limit=1&sort=effective_time%3Adesc",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:index": {
       "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:label-t-dxd": {
       "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22ENHERTU%22&limit=1&sort=effective_time%3Adesc",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:label-dato-dxd": {
       "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22DATROWAY%22&limit=1&sort=effective_time%3Adesc",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "fda:label-imlunestrant": {
       "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name%3A%22INLURIYO%22&limit=1&sort=effective_time%3Adesc",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT03529110": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT03529110",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT03734029": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT03734029",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT04622319": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04622319",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT04494425": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04494425",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT04784715": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04784715",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT05113251": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05113251",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT05104866": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05104866",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT05374512": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05374512",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT05629585": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05629585",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT06112379": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT06112379",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT04975308": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT04975308",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:NCT05514054": {
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=NCT05514054",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     },
     "pubmed:metadata": {
       "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
       "status": "ok",
-      "lastAttempt": "2026-09-19T12:03:40Z",
-      "lastSuccess": "2026-09-19T12:03:40Z"
+      "lastAttempt": "2026-09-20T04:32:41Z",
+      "lastSuccess": "2026-09-20T04:32:41Z"
     }
   },
   "observations": {
     "fda-imlu-combo-2026": {
       "sha256": "d54fcc9d4bfa88d6018ba475651a8d1c87b56dfda04b97af41aa6bc83ce65084",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-dato-tnbc-2026": {
       "sha256": "0b99f595ad67b9154cb780aae0a71d7aca7a88d8b5f8efaaf815c9c7a385376a",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-tdxd-early-2026": {
       "sha256": "cfa54f87aae2d0d10caa0a801bc81b8bf17ffef1692e558c3e9e9411181545d9",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-tdxd-firstline-2025": {
       "sha256": "e2280f4791a813d82af35ea052a8b3e316dd636878c3fdd97bdb071005f57003",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-imlu-mono-2025": {
       "sha256": "5510d5c8cefd6a902b8f6a2de9fcd4265dcdde83c5e45e93f2a7f315099ae24c",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-tdxd-low-et-2025": {
       "sha256": "e0cd1b88fccfb2b3d7a98f94bdc4f32f11fc7ca6de21a81e50b41983f199eb9c",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-dato-hr-2025": {
       "sha256": "2e645819dc6c6d3f64193a3cd82a45153db755ad5edda31b8e81cb3c54c35c64",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda-tdxd-established-label": {
       "sha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
-      "checkedAt": "2026-09-19T12:03:40Z"
+      "checkedAt": "2026-09-20T04:32:41Z"
     },
     "fda:label-t-dxd": {
       "sha256": "f275b8d0d3f878fa3d3304910874fbc4ff75e302a2b9d46e87387eb8dea26d70",
@@ -1082,10 +1082,10 @@
     }
   },
   "lastRun": {
-    "finishedAt": "2026-09-19T12:03:48Z",
+    "finishedAt": "2026-09-20T04:32:51Z",
     "successes": 37,
     "attempts": 37,
     "status": "ok",
-    "startedAt": "2026-09-19T12:03:40Z"
+    "startedAt": "2026-09-20T04:32:41Z"
   }
 }
